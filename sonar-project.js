@@ -5,7 +5,7 @@ sonarqubeScanner({
        options : {
 	    'sonar.projectDescription': 'This is a Node JS application',
 	    'sonar.projectName': 'Node JS Application - Sample',
-	    'sonar.projectKey':'NodeJsMithunTechnologies',
+	    'sonar.projectKey':'NodeJs',
 	    'sonar.login': 'a5fde037465b2c59a0f39d1811eb4efc804d248e',
             'sonar.projectVersion':'1.0',
 	    'sonar.language':'js',
