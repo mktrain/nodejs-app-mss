@@ -34,5 +34,5 @@ node
         sh 'npm start &'
     }
 }    
-    
+}    
 
