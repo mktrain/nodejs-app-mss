@@ -23,7 +23,7 @@ app.get('/POC', function(request, response) {
     //response.send("<h2><center>Welcome to Node JS app</h2>");
     response.write("Welcome to DevOps POC");
 	
-    response.write("This is NodeJs Application" );
+    response.write("  This is NodeJs Application" );
     response.end();
     
   })
